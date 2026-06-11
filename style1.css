@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    background-image: url("https://img.magnific.com/premium-vector/abstract-halftone-dark-blue-striped-horizontal-background_660728-275.jpg?semt=ais_hybrid&w=740&q=80");
+    /* height: 100px;
+    width: 100px; */
+    background-size: cover;
+    align-items: center;   
+    display: flex;
+    justify-content: center;
+    object-position: center;
+    flex-direction: column;
+}
+
+.background-div {
+        object-position: center;
+    flex-direction: column;
+    display: flex;
+    border: 1px;
+    border-radius: 50px;
+    box-shadow: 0 0 10px aliceblue;
+    background-color: aliceblue;
+    width: 100rem;
+    outline: 5px aliceblue;
+    outline-offset: 20px;
+}
